@@ -1,4 +1,4 @@
-# fork from https://github.com/guoxingx/SkyrmionOpticalForce
+# fork from https://github.com/Lusenc/SkyrmionOpticalForce
 
 
 [Lusenc/SkyrmionOpticalForce](https://github.com/Lusenc/SkyrmionOpticalForce)|该项目记录笔者科研过程中用到的算法函数，包括矢量场表示、瑞利粒子光学力的计算、特殊光束生成等内容|6|2023-11-16|2023-09-05|
